@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="23cm" height="18cm" version="1.1" viewBox="0 0 651.969 510.236">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: red;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: red;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M627.839,35.283v438.87H21.725V35.283h606.114M628.089,35.033H21.475v439.37h606.614V35.033h0Z"/>
+  <rect class="cls-1" x="92.969" y="78.504" width="85.039" height="113.386"/>
+  <g>
+    <g id="LINE">
+      <line class="cls-1" x1="523.753" y1="207.155" x2="536.027" y2="200.069"/>
+    </g>
+    <g id="ARC">
+      <path class="cls-1" d="M536.027,200.069c6.779-3.914,9.102-12.582,5.188-19.361"/>
+    </g>
+    <g id="LINE-2" data-name="LINE">
+      <line class="cls-1" x1="541.215" y1="180.708" x2="493.026" y2="97.242"/>
+    </g>
+    <g id="ARC-2" data-name="ARC">
+      <path class="cls-1" d="M493.026,97.242c-3.914-6.779-12.582-9.102-19.361-5.188"/>
+    </g>
+    <g id="LINE-3" data-name="LINE">
+      <line class="cls-1" x1="473.665" y1="92.054" x2="68.546" y2="325.95"/>
+    </g>
+    <g id="ARC-3" data-name="ARC">
+      <path class="cls-1" d="M68.546,325.95c-6.294,3.634-8.82,11.44-5.846,18.072"/>
+    </g>
+    <g id="LINE-4" data-name="LINE">
+      <line class="cls-1" x1="62.7" y1="344.022" x2="114.812" y2="434.282"/>
+    </g>
+    <g id="ARC-4" data-name="ARC">
+      <path class="cls-1" d="M114.812,434.282c5.379,6.054,13.091,9.518,21.19,9.518"/>
+    </g>
+    <g id="LINE-5" data-name="LINE">
+      <line class="cls-1" x1="136.002" y1="443.8" x2="556.742" y2="443.8"/>
+    </g>
+    <g id="ARC-5" data-name="ARC">
+      <path class="cls-1" d="M556.742,443.8c15.655,0,28.346-12.691,28.346-28.346"/>
+    </g>
+    <g id="LINE-6" data-name="LINE">
+      <line class="cls-1" x1="585.089" y1="415.454" x2="585.089" y2="387.107"/>
+    </g>
+    <g id="ARC-6" data-name="ARC">
+      <path class="cls-1" d="M585.089,387.107c0-15.655-12.691-28.346-28.346-28.346"/>
+    </g>
+    <g id="LINE-7" data-name="LINE">
+      <line class="cls-1" x1="556.742" y1="358.761" x2="553.908" y2="358.761"/>
+    </g>
+    <g id="SPLINE">
+      <path class="cls-1" d="M553.908,358.761c-250.923,0-255.231-21.658-30.155-151.606"/>
+    </g>
+  </g>
+</svg>
